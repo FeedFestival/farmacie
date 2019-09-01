@@ -1,0 +1,201 @@
+simtom_id, simtom, pastila_id, pastila, rating
+1,Durere de cap,1,Brufen 400,4
+1,Durere de cap,2,Nurofen Express Forte,5
+1,Durere de cap,3,Fasconal,4
+1,Durere de cap,4,Solpadeine,5
+1,Durere de cap,5,Ibusinus,4
+1,Durere de cap,6,Coldrex MaxGrip ,3
+1,Durere de cap,7,Strepsils,1
+1,Durere de cap,8,ACC,1
+1,Durere de cap,9,Tusocalm,1
+1,Durere de cap,10,Bixtonim,1
+1,Durere de cap,11,Vibrocil,1
+1,Durere de cap,12,Imodium,1
+1,Durere de cap,13,Theraflu,3
+1,Durere de cap,14,Smecta,1
+1,Durere de cap,15,Meltus sirop,1
+1,Durere de cap,16,Aspirină,4
+1,Durere de cap,17,Hexoral Spray,1
+1,Durere de cap,18,Sennalax,1
+1,Durere de cap,19,Melatonină,1
+1,Durere de cap,20,Calmogen Plant,1
+2,Dureri de gât,1,Brufen 400,2
+2,Dureri de gât,2,Nurofen Express Forte,2
+2,Dureri de gât,3,Fasconal,2
+2,Dureri de gât,4,Solpadeine,2
+2,Dureri de gât,5,Ibusinus,3
+2,Dureri de gât,6,Coldrex MaxGrip ,3
+2,Dureri de gât,7,Strepsils,5
+2,Dureri de gât,8,ACC,1
+2,Dureri de gât,9,Tusocalm,1
+2,Dureri de gât,10,Bixtonim,1
+2,Dureri de gât,11,Vibrocil,1
+2,Dureri de gât,12,Imodium,1
+2,Dureri de gât,13,Theraflu,3
+2,Dureri de gât,14,Smecta,1
+2,Dureri de gât,15,Meltus sirop,1
+2,Dureri de gât,16,Aspirină,3
+2,Dureri de gât,17,Hexoral Spray,5
+2,Dureri de gât,18,Sennalax,1
+2,Dureri de gât,19,Melatonină,1
+2,Dureri de gât,20,Calmogen Plant,1
+3,Tuse,1,Brufen 400,1
+3,Tuse,2,Nurofen Express Forte,1
+3,Tuse,3,Fasconal,2
+3,Tuse,4,Solpadeine,3
+3,Tuse,5,Ibusinus,3
+3,Tuse,6,Coldrex MaxGrip ,3
+3,Tuse,7,Strepsils,1
+3,Tuse,8,ACC,4
+3,Tuse,9,Tusocalm,4
+3,Tuse,10,Bixtonim,1
+3,Tuse,11,Vibrocil,1
+3,Tuse,12,Imodium,1
+3,Tuse,13,Theraflu,3
+3,Tuse,14,Smecta,1
+3,Tuse,15,Meltus sirop,5
+3,Tuse,16,Aspirină,2
+3,Tuse,17,Hexoral Spray,3
+3,Tuse,18,Sennalax,1
+3,Tuse,19,Melatonină,1
+3,Tuse,20,Calmogen Plant,1
+4,Nas înfundat,1,Brufen 400,1
+4,Nas înfundat,2,Nurofen Express Forte,1
+4,Nas înfundat,3,Fasconal,1
+4,Nas înfundat,4,Solpadeine,1
+4,Nas înfundat,5,Ibusinus,4
+4,Nas înfundat,6,Coldrex MaxGrip ,4
+4,Nas înfundat,7,Strepsils,1
+4,Nas înfundat,8,ACC,1
+4,Nas înfundat,9,Tusocalm,1
+4,Nas înfundat,10,Bixtonim,5
+4,Nas înfundat,11,Vibrocil,5
+4,Nas înfundat,12,Imodium,1
+4,Nas înfundat,13,Theraflu,4
+4,Nas înfundat,14,Smecta,1
+4,Nas înfundat,15,Meltus sirop,1
+4,Nas înfundat,16,Aspirină,3
+4,Nas înfundat,17,Hexoral Spray,2
+4,Nas înfundat,18,Sennalax,1
+4,Nas înfundat,19,Melatonină,1
+4,Nas înfundat,20,Calmogen Plant,1
+5,Febră,1,Brufen 400,3
+5,Febră,2,Nurofen Express Forte,4
+5,Febră,3,Fasconal,3
+5,Febră,4,Solpadeine,4
+5,Febră,5,Ibusinus,4
+5,Febră,6,Coldrex MaxGrip ,5
+5,Febră,7,Strepsils,1
+5,Febră,8,ACC,1
+5,Febră,9,Tusocalm,1
+5,Febră,10,Bixtonim,1
+5,Febră,11,Vibrocil,1
+5,Febră,12,Imodium,1
+5,Febră,13,Theraflu,4
+5,Febră,14,Smecta,1
+5,Febră,15,Meltus sirop,1
+5,Febră,16,Aspirină,5
+5,Febră,17,Hexoral Spray,1
+5,Febră,18,Sennalax,1
+5,Febră,19,Melatonină,1
+5,Febră,20,Calmogen Plant,1
+6,Dureri musculare,1,Brufen 400,4
+6,Dureri musculare,2,Nurofen Express Forte,5
+6,Dureri musculare,3,Fasconal,4
+6,Dureri musculare,4,Solpadeine,5
+6,Dureri musculare,5,Ibusinus,3
+6,Dureri musculare,6,Coldrex MaxGrip ,3
+6,Dureri musculare,7,Strepsils,1
+6,Dureri musculare,8,ACC,1
+6,Dureri musculare,9,Tusocalm,1
+6,Dureri musculare,10,Bixtonim,1
+6,Dureri musculare,11,Vibrocil,1
+6,Dureri musculare,12,Imodium,1
+6,Dureri musculare,13,Theraflu,3
+6,Dureri musculare,14,Smecta,1
+6,Dureri musculare,15,Meltus sirop,1
+6,Dureri musculare,16,Aspirină,4
+6,Dureri musculare,17,Hexoral Spray,1
+6,Dureri musculare,18,Sennalax,1
+6,Dureri musculare,19,Melatonină,1
+6,Dureri musculare,20,Calmogen Plant,1
+7,Frisoane,1,Brufen 400,2
+7,Frisoane,2,Nurofen Express Forte,2
+7,Frisoane,3,Fasconal,2
+7,Frisoane,4,Solpadeine,2
+7,Frisoane,5,Ibusinus,4
+7,Frisoane,6,Coldrex MaxGrip ,5
+7,Frisoane,7,Strepsils,1
+7,Frisoane,8,ACC,1
+7,Frisoane,9,Tusocalm,1
+7,Frisoane,10,Bixtonim,1
+7,Frisoane,11,Vibrocil,1
+7,Frisoane,12,Imodium,1
+7,Frisoane,13,Theraflu,5
+7,Frisoane,14,Smecta,1
+7,Frisoane,15,Meltus sirop,1
+7,Frisoane,16,Aspirină,5
+7,Frisoane,17,Hexoral Spray,1
+7,Frisoane,18,Sennalax,1
+7,Frisoane,19,Melatonină,1
+7,Frisoane,20,Calmogen Plant,1
+8,Constipație,1,Brufen 400,1
+8,Constipație,2,Nurofen Express Forte,1
+8,Constipație,3,Fasconal,1
+8,Constipație,4,Solpadeine,1
+8,Constipație,5,Ibusinus,1
+8,Constipație,6,Coldrex MaxGrip ,1
+8,Constipație,7,Strepsils,1
+8,Constipație,8,ACC,1
+8,Constipație,9,Tusocalm,1
+8,Constipație,10,Bixtonim,1
+8,Constipație,11,Vibrocil,2
+8,Constipație,12,Imodium,1
+8,Constipație,13,Theraflu,3
+8,Constipație,14,Smecta,4
+8,Constipație,15,Meltus sirop,1
+8,Constipație,16,Aspirină,1
+8,Constipație,17,Hexoral Spray,1
+8,Constipație,18,Sennalax,5
+8,Constipație,19,Melatonină,3
+8,Constipație,20,Calmogen Plant,1
+9,Diaree,1,Brufen 400,1
+9,Diaree,2,Nurofen Express Forte,1
+9,Diaree,3,Fasconal,1
+9,Diaree,4,Solpadeine,1
+9,Diaree,5,Ibusinus,1
+9,Diaree,6,Coldrex MaxGrip ,1
+9,Diaree,7,Strepsils,1
+9,Diaree,8,ACC,1
+9,Diaree,9,Tusocalm,1
+9,Diaree,10,Bixtonim,1
+9,Diaree,11,Vibrocil,1
+9,Diaree,12,Imodium,5
+9,Diaree,13,Theraflu,1
+9,Diaree,14,Smecta,5
+9,Diaree,15,Meltus sirop,1
+9,Diaree,16,Aspirină,1
+9,Diaree,17,Hexoral Spray,1
+9,Diaree,18,Sennalax,1
+9,Diaree,19,Melatonină,1
+9,Diaree,20,Calmogen Plant,1
+10,Insomnii,1,Brufen 400,1
+10,Insomnii,2,Nurofen Express Forte,1
+10,Insomnii,3,Fasconal,1
+10,Insomnii,4,Solpadeine,1
+10,Insomnii,5,Ibusinus,2
+10,Insomnii,6,Coldrex MaxGrip ,2
+10,Insomnii,7,Strepsils,1
+10,Insomnii,8,ACC,1
+10,Insomnii,9,Tusocalm,1
+10,Insomnii,10,Bixtonim,1
+10,Insomnii,11,Vibrocil,1
+10,Insomnii,12,Imodium,1
+10,Insomnii,13,Theraflu,3
+10,Insomnii,14,Smecta,1
+10,Insomnii,15,Meltus sirop,1
+10,Insomnii,16,Aspirină,3
+10,Insomnii,17,Hexoral Spray,1
+10,Insomnii,18,Sennalax,1
+10,Insomnii,19,Melatonină,5
+10,Insomnii,20,Calmogen Plant,5

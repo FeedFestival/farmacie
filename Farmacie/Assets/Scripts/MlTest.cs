@@ -9,8 +9,9 @@ using UnityEngine.UI;
 public class MlTest : MonoBehaviour
 {
     public InputField InputField;
-
     public Text PredictedText;
+
+    public string TestText;
 
     List<FeedBackTrainingData> trainingData;
     List<FeedBackTrainingData> testData;
@@ -18,7 +19,8 @@ public class MlTest : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        InputField.text = "Terrible";
+        //InputField.text = "Terrible";
+        TestText = "Awesome";
 
         Init();
     }
@@ -61,7 +63,7 @@ public class MlTest : MonoBehaviour
                                                 (model);
         var feedbackInput = new FeedBackTrainingData();
 
-        feedbackInput.Features = InputField.text;
+        feedbackInput.Features = TestText;
 
         var feedbackPredicted = predictionsFunction.Predict(feedbackInput);
 
@@ -114,7 +116,7 @@ public class MlTest : MonoBehaviour
             new FeedBackTrainingData()
             {
                 Features = "Awesome",
-                Label = true
+                Label = false
             });
         testData.Add(
             new FeedBackTrainingData()

@@ -1,0 +1,191 @@
+Pastile, Periculos
+"Brufen 400, Nurofen Express Forte, Calmogen Plant",TRUE
+"Brufen 400, Fasconal, Melatonină",TRUE
+"Brufen 400, Solpadeine, Sennalax",TRUE
+"Brufen 400, Ibusinus, Hexoral Spray",TRUE
+"Brufen 400, Coldrex MaxGrip , Aspirină",TRUE
+"Brufen 400, Strepsils, Meltus sirop",FALSE
+"Brufen 400, ACC, Smecta",FALSE
+"Brufen 400, Tusocalm, Theraflu",FALSE
+"Brufen 400, Bixtonim, Imodium",FALSE
+"Brufen 400, Vibrocil",FALSE
+"Brufen 400, Imodium, Bixtonim",FALSE
+"Brufen 400, Theraflu, Tusocalm",FALSE
+"Brufen 400, Smecta, ACC",FALSE
+"Brufen 400, Meltus sirop, Strepsils",FALSE
+"Brufen 400, Aspirină, Coldrex MaxGrip ",TRUE
+"Brufen 400, Hexoral Spray, Ibusinus",TRUE
+"Brufen 400, Sennalax",FALSE
+"Brufen 400, Melatonină",FALSE
+"Brufen 400, Calmogen Plant",FALSE
+"Nurofen Express Forte, Fasconal",TRUE
+"Nurofen Express Forte, Solpadeine",TRUE
+"Nurofen Express Forte, Ibusinus",TRUE
+"Nurofen Express Forte, Coldrex MaxGrip ",FALSE
+"Nurofen Express Forte, Strepsils",FALSE
+"Nurofen Express Forte, ACC",FALSE
+"Nurofen Express Forte, Tusocalm",FALSE
+"Nurofen Express Forte, Bixtonim",FALSE
+"Nurofen Express Forte, Vibrocil",FALSE
+"Nurofen Express Forte, Imodium",FALSE
+"Nurofen Express Forte, Theraflu",TRUE
+"Nurofen Express Forte, Smecta",FALSE
+"Nurofen Express Forte, Meltus sirop",FALSE
+"Nurofen Express Forte, Aspirină",TRUE
+"Nurofen Express Forte, Hexoral Spray",FALSE
+"Nurofen Express Forte, Sennalax",FALSE
+"Nurofen Express Forte, Melatonină",FALSE
+"Nurofen Express Forte, Calmogen Plant",FALSE
+"Fasconal, Solpadeine",TRUE
+"Fasconal, Ibusinus",TRUE
+"Fasconal, Coldrex MaxGrip ",TRUE
+"Fasconal, Strepsils",FALSE
+"Fasconal, ACC",FALSE
+"Fasconal, Tusocalm",FALSE
+"Fasconal, Bixtonim",FALSE
+"Fasconal, Vibrocil",FALSE
+"Fasconal, Imodium",FALSE
+"Fasconal, Theraflu",TRUE
+"Fasconal, Smecta",FALSE
+"Fasconal, Meltus sirop",FALSE
+"Fasconal, Aspirină",TRUE
+"Fasconal, Hexoral Spray",FALSE
+"Fasconal, Sennalax",FALSE
+"Fasconal, Melatonină",FALSE
+"Fasconal, Calmogen Plant",FALSE
+"Solpadeine, Ibusinus",FALSE
+"Solpadeine, Coldrex MaxGrip ",TRUE
+"Solpadeine, Strepsils",FALSE
+"Solpadeine, ACC",FALSE
+"Solpadeine, Tusocalm",FALSE
+"Solpadeine, Bixtonim",FALSE
+"Solpadeine, Vibrocil",FALSE
+"Solpadeine, Imodium",FALSE
+"Solpadeine, Theraflu",TRUE
+"Solpadeine, Smecta",FALSE
+"Solpadeine, Meltus sirop",FALSE
+"Solpadeine, Aspirină",TRUE
+"Solpadeine, Hexoral Spray",FALSE
+"Solpadeine, Sennalax",FALSE
+"Solpadeine, Melatonină",FALSE
+"Solpadeine, Calmogen Plant",FALSE
+"Ibusinus, Coldrex MaxGrip ",TRUE
+"Ibusinus, Strepsils",FALSE
+"Ibusinus, ACC",FALSE
+"Ibusinus, Tusocalm",FALSE
+"Ibusinus, Bixtonim",FALSE
+"Ibusinus, Vibrocil",FALSE
+"Ibusinus, Imodium",FALSE
+"Ibusinus, Theraflu",TRUE
+"Ibusinus, Smecta",FALSE
+"Ibusinus, Meltus sirop",FALSE
+"Ibusinus, Aspirină",TRUE
+"Ibusinus, Hexoral Spray",FALSE
+"Ibusinus, Sennalax",FALSE
+"Ibusinus, Melatonină",FALSE
+"Ibusinus, Calmogen Plant",FALSE
+"Coldrex MaxGrip , Strepsils",FALSE
+"Coldrex MaxGrip , ACC",FALSE
+"Coldrex MaxGrip , Tusocalm",FALSE
+"Coldrex MaxGrip , Bixtonim",FALSE
+"Coldrex MaxGrip , Vibrocil",FALSE
+"Coldrex MaxGrip , Imodium",FALSE
+"Coldrex MaxGrip , Theraflu",TRUE
+"Coldrex MaxGrip , Smecta",FALSE
+"Coldrex MaxGrip , Meltus sirop",FALSE
+"Coldrex MaxGrip , Aspirină",TRUE
+"Coldrex MaxGrip , Hexoral Spray",FALSE
+"Coldrex MaxGrip , Sennalax",FALSE
+"Coldrex MaxGrip , Melatonină",FALSE
+"Coldrex MaxGrip , Calmogen Plant",FALSE
+"Strepsils, ACC",FALSE
+"Strepsils, Tusocalm",TRUE
+"Strepsils, Bixtonim",FALSE
+"Strepsils, Vibrocil",FALSE
+"Strepsils, Imodium",FALSE
+"Strepsils, Theraflu",FALSE
+"Strepsils, Smecta",FALSE
+"Strepsils, Meltus sirop",FALSE
+"Strepsils, Aspirină",FALSE
+"Strepsils, Hexoral Spray",TRUE
+"Strepsils, Sennalax",FALSE
+"Strepsils, Melatonină",FALSE
+"Strepsils, Calmogen Plant",FALSE
+"ACC, Tusocalm",TRUE
+"ACC, Bixtonim",FALSE
+"ACC, Vibrocil",FALSE
+"ACC, Imodium",FALSE
+"ACC, Theraflu",FALSE
+"ACC, Smecta",FALSE
+"ACC, Meltus sirop",FALSE
+"ACC, Aspirină",FALSE
+"ACC, Hexoral Spray",FALSE
+"ACC, Sennalax",FALSE
+"ACC, Melatonină",FALSE
+"ACC, Calmogen Plant",FALSE
+"Tusocalm, Bixtonim",FALSE
+"Tusocalm, Vibrocil",FALSE
+"Tusocalm, Imodium",FALSE
+"Tusocalm, Theraflu",FALSE
+"Tusocalm, Smecta",FALSE
+"Tusocalm, Meltus sirop",FALSE
+"Tusocalm, Aspirină",FALSE
+"Tusocalm, Hexoral Spray",FALSE
+"Tusocalm, Sennalax",FALSE
+"Tusocalm, Melatonină",FALSE
+"Tusocalm, Calmogen Plant",FALSE
+"Bixtonim, Vibrocil",TRUE
+"Bixtonim, Imodium",FALSE
+"Bixtonim, Theraflu",FALSE
+"Bixtonim, Smecta",FALSE
+"Bixtonim, Meltus sirop",FALSE
+"Bixtonim, Aspirină",FALSE
+"Bixtonim, Hexoral Spray",FALSE
+"Bixtonim, Sennalax",FALSE
+"Bixtonim, Melatonină",FALSE
+"Bixtonim, Calmogen Plant",FALSE
+"Vibrocil, Imodium",FALSE
+"Vibrocil, Theraflu",FALSE
+"Vibrocil, Smecta",FALSE
+"Vibrocil, Meltus sirop",FALSE
+"Vibrocil, Aspirină",FALSE
+"Vibrocil, Hexoral Spray",FALSE
+"Vibrocil, Sennalax",FALSE
+"Vibrocil, Melatonină",FALSE
+"Vibrocil, Calmogen Plant",FALSE
+"Imodium, Theraflu",FALSE
+"Imodium, Smecta",TRUE
+"Imodium, Meltus sirop",FALSE
+"Imodium, Aspirină",FALSE
+"Imodium, Hexoral Spray",FALSE
+"Imodium, Sennalax",TRUE
+"Imodium, Melatonină",FALSE
+"Imodium, Calmogen Plant",FALSE
+"Theraflu, Smecta",FALSE
+"Theraflu, Meltus sirop",FALSE
+"Theraflu, Aspirină",FALSE
+"Theraflu, Hexoral Spray",TRUE
+"Theraflu, Sennalax",FALSE
+"Theraflu, Melatonină",FALSE
+"Theraflu, Calmogen Plant",FALSE
+"Smecta, Meltus sirop",FALSE
+"Smecta, Aspirină",FALSE
+"Smecta, Hexoral Spray",FALSE
+"Smecta, Sennalax",FALSE
+"Smecta, Melatonină",FALSE
+"Smecta, Calmogen Plant",FALSE
+"Meltus sirop, Aspirină",FALSE
+"Meltus sirop, Hexoral Spray",FALSE
+"Meltus sirop, Sennalax",FALSE
+"Meltus sirop, Melatonină",FALSE
+"Meltus sirop, Calmogen Plant",FALSE
+"Aspirină, Hexoral Spray",FALSE
+"Aspirină, Sennalax",FALSE
+"Aspirină, Melatonină",FALSE
+"Aspirină, Calmogen Plant",FALSE
+"Hexoral Spray, Sennalax",FALSE
+"Hexoral Spray, Melatonină",FALSE
+"Hexoral Spray, Calmogen Plant",FALSE
+"Sennalax, Melatonină",FALSE
+"Sennalax, Calmogen Plant",FALSE
+"Melatonină, Calmogen Plant",TRUE
