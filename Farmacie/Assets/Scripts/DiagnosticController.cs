@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Assets.Scripts.Utils;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,11 +8,15 @@ using UnityEngine.UI;
 
 public class DiagnosticController : MonoBehaviour
 {
-    public Text Text;
+    //public Text Text;
     public SimtomeController SimtomeController;
     public Text ActionButtonText;
 
     private List<Medicament> _medicamentePropuse;
+    private List<IPrefabComponent> _medicamentsPool;
+    public RectTransform MedicamentParent;
+
+    public GameObject MedicamentPrefab;
 
     private bool _actionIsCalculate = false;
 
@@ -58,11 +63,11 @@ public class DiagnosticController : MonoBehaviour
 
         _medicamentePropuse = _medicamentePropuse.OrderByDescending(m => m.Score).ToList();
 
-        Text.text = Environment.NewLine + " Primul rand de calcule" + Environment.NewLine;
-        foreach (Medicament med in _medicamentePropuse)
-        {
-            Text.text += Environment.NewLine + med.nume + "       Score: " + med.Score;
-        }
+        //Text.text = Environment.NewLine + " Primul rand de calcule" + Environment.NewLine;
+        //foreach (Medicament med in _medicamentePropuse)
+        //{
+        //    Text.text += Environment.NewLine + med.nume + "       Score: " + med.Score;
+        //}
 
         StartCoroutine(SecondPhase());
     }
@@ -132,13 +137,47 @@ public class DiagnosticController : MonoBehaviour
 
         _medicamentePropuse = _medicamentePropuse.OrderByDescending(m => m.Score).ToList();
 
-        Text.text += Environment.NewLine + Environment.NewLine + " Al doilea rand de calcule" + Environment.NewLine;
-        foreach (Medicament med in _medicamentePropuse)
-        {
-            Text.text += Environment.NewLine + med.nume + "       Score: " + med.Score;
-        }
+        OnMedicamentePropuse();
+
+        //Text.text += Environment.NewLine + Environment.NewLine + " Al doilea rand de calcule" + Environment.NewLine;
+        //foreach (Medicament med in _medicamentePropuse)
+        //{
+        //    Text.text += Environment.NewLine + med.nume + "       Score: " + med.Score;
+        //}
 
         ActionButtonText.text = "De la inceput";
+    }
+
+    public void OnMedicamentePropuse()
+    {
+        foreach (Medicament medicament in _medicamentePropuse)
+        {
+            var wasNull = UsefullUtils.CheckInPool(
+                medicament.id,
+                MedicamentPrefab,
+                MedicamentParent.transform,
+                out IPrefabComponent medicamentComponent,
+                ref _medicamentsPool
+                );
+
+            medicamentComponent.Id = medicament.id;
+            
+            medicamentComponent.GameObject.name = medicament.nume;
+            (medicamentComponent as MedicamentComponent).Name.text = medicament.nume;
+
+            Debug.Log(medicament.nume);
+
+            Sprite sprite = Resources.Load("Images/" + medicament.pic, typeof(Sprite)) as Sprite;
+            (medicamentComponent as MedicamentComponent).SetImage(sprite);
+
+            if (wasNull)
+            {
+                _medicamentsPool.Add(medicamentComponent);
+            }
+        }
+
+        var newHeight = (_medicamentePropuse.Count / 2) * 440;
+        MedicamentParent.sizeDelta = new Vector2(MedicamentParent.sizeDelta.x, newHeight);
     }
 
     public int CountStringOccurrences(string text, string pattern)

@@ -208,6 +208,13 @@ public class Medicament
 {
     public int id;
     public string nume;
+    public string pic;
 
     public double Score;
+}
+
+public interface IMedicamentComponent
+{
+    int Id { get; set; }
+    GameObject GameObject { get; }
 }

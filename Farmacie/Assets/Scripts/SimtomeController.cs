@@ -34,7 +34,7 @@ public class SimtomeController : MonoBehaviour
         _dropdownList = new List<Dropdown.OptionData>();
         _dropdownList.Add(new Dropdown.OptionData()
         {
-            text = "Selecteaza un simtom..."
+            text = "Selecteaza un simptom..."
         });
 
         foreach (var simtom in _allSimtoms)
